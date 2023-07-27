@@ -1,4 +1,4 @@
-<h1 align="center">Perkenalkan 👋, Kami adalah BadRule-MoonAir</h1>
+<h1 align="center">Perkenalkan 👋, Kami dari ITPedia</h1>
 <h3 align="center">Saya gak tau lagi mau perkenalan apa</h3>
 
 
